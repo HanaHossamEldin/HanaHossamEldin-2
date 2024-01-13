@@ -1,0 +1,31 @@
+.banner{
+  background-image: url("banner.png");
+  background-repeat: no-repeat;
+  
+}
+
+body{
+  background-color: #1e202b;
+
+}
+ 
+.btn{
+  width:100px;
+}
+
+.weather{
+  background-color: #323544;
+  opacity:0.8;
+}
+
+.heads{
+  background-color: #1e202b;
+}
+
+.weather2{
+  background-color: #262936;
+}
+
+input .form-control{
+  background-color:#1e202b ;
+}
